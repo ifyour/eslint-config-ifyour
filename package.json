@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ifyour",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ifyour's eslint config",
   "main": "index.js",
   "keywords": [
@@ -31,7 +31,7 @@
     "Marvin Hagemeister <marvin@marvinhagemeister.de>"
   ],
   "license": "GPL-3.0",
-  "repository": "developit/eslint-config-developit",
+  "repository": "ifyour/eslint-config-ifyour",
   "dependencies": {
     "babel-eslint": "^10.1.0",
     "eslint-plugin-compat": "^3.5.1",
