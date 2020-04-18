@@ -97,7 +97,7 @@ module.exports = {
     'constructor-super': 2,
     curly: [0, 'multi-line'],
     'dot-notation': [2, { allowPattern: '^[a-z]+(_[a-z]+)+$' }],
-    eqeqeq: 0,
+    eqeqeq: ["error", "always"],
     'func-style': [2, 'declaration', { allowArrowFunctions: true }],
     'guard-for-in': 0,
     'handle-callback-err': 0,
