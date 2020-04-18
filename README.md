@@ -13,9 +13,13 @@ npm i -D eslint eslint-config-ifyour
 Now in your `package.json`:
 
 ````
+...
+
 "eslintConfig": {
   "extends": "eslint-config-ifyour"
-}
+},
+
+...
 ````
 
 ## Credits
