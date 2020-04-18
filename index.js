@@ -92,7 +92,7 @@ module.exports = {
     'arrow-spacing': 2,
     'brace-style': [2, '1tbs', { allowSingleLine: true }],
     camelcase: [1, { properties: 'never' }],
-    'comma-dangle': [2, 'never'],
+    'comma-dangle': ['error', "always-multiline"],
     'comma-style': [2, 'last'],
     'constructor-super': 2,
     curly: [0, 'multi-line'],
