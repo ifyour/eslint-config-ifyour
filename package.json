@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ifyour",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ifyour's eslint config",
   "main": "index.js",
   "keywords": [
