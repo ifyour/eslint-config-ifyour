@@ -4,6 +4,7 @@ ifyour's eslint configuration, with some sensible defaults for ES2015, React and
 
 ## Installation
 
+#### Project
 Install eslint and this config:
 
 ```
@@ -22,7 +23,7 @@ Now in your `package.json`:
 ...
 ````
 
-## VSCode Settings
+#### VSCode
 
 Install [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint), and in your `settings.json`:
 ```
