@@ -91,7 +91,7 @@ module.exports = {
     'arrow-body-style': [2, 'as-needed'],
     'arrow-parens': [0, 'always'],
     'arrow-spacing': 2,
-    'brace-style': [2, 'stroustrup', { allowSingleLine: true }],
+    'brace-style': [2, '1tbs', { allowSingleLine: true }],
     camelcase: [1, { properties: 'never' }],
     'comma-dangle': [2, 'never'],
     'comma-style': [2, 'last'],
