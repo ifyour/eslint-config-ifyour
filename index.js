@@ -84,7 +84,6 @@ module.exports = {
           'render'
         ]
       }
-
     }],
 
     // stylistic rules
