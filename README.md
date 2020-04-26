@@ -23,7 +23,7 @@ Now in your `package.json`:
 ...
 ````
 
-#### VSCode
+#### VS Code
 
 Install [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint), and in your `settings.json`:
 ```
